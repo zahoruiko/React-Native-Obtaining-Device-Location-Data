@@ -1,2 +1,38 @@
 # React-Native-Obtaining-Device-Location-Data
-Obtaining device location data in the React Native Application
+
+
+This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+
+# Obtaining device location data in the React Native Application
+
+# Getting Started
+
+## Install modules:
+
+```npm install```
+
+### Install for iOS:
+
+```
+cd ios
+pod install
+```
+
+## Start
+
+```bash
+# using npm
+npm start
+
+# OR using Yarn
+yarn start
+```
+## Result
+
+### Initial view
+
+<img src="https://github.com/zahoruiko/React-Native-Obtaining-Device-Location-Data/blob/main/promoImages/Screen-1.png" width="240" />
+
+### The result of receiving data
+
+<img src="https://github.com/zahoruiko/React-Native-Obtaining-Device-Location-Data/blob/main/promoImages/Screen-2.png" width="240" />
