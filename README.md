@@ -3,7 +3,7 @@
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
-# Obtaining device location data in the React Native Application
+# Obtaining device location data in a cross-platform React Native Application (iOS and Android)
 
 # Getting Started
 
